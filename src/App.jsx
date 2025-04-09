@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from "./components/Navbar/Navbar";
-import Hero from "./Components/Hero/Hero";
-import Title from "./Components/Title/Title";
-import Program from "./Components/Program/Program";
-import About from "./Components/About/About";
-import Contact from "./Components/Contact/Contact";
+import Navbar from "./components/Navbar/Navbar.jsx";
+import Hero from "./Components/Hero/Hero.jsx";
+import Title from "./Components/Title/title.jsx";
+import Program from "./Components/Program/Program.jsx";
+import About from "./Components/About/About.jsx";
+import Contact from "./Components/Contact/Contact.jsx";
 
 const App = () => {
   return (
